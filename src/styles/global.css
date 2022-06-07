@@ -1,0 +1,22 @@
+/*Reset confiração pagina*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ 
+}
+
+html{
+  width: 1980px;
+  height: 1080px;
+  background-image: linear-gradient(107.65deg, #1042DD 0.43%, #24B0A8 100%);
+}
+
+body {
+  height: 1080px;
+  width: 1980px;
+  background-image: url("../assets/images/page-image.png");
+  background-size: cover;
+  position: absolute;
+}
